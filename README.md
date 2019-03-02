@@ -19,5 +19,16 @@ Objectif :   Mise en pratique des notions acquises dans les deux premières part
              - centrer et mettre en couleur gras
              - changer la couleur au survol du curseur
              
+6eme etape : mise en forme "Marques francaises"
+             - changer de police et mettre en couleur 
+             - changer la couleur et le format au survol du curseur
+             
+7eme etape : mise en forme "Autres marques"
+             - changer de police et mettre en couleur 
+             - changer la couleur et le format au survol du curseur
+             
+8eme etape : ajout de date en bas   puis
+             - deplacer la date en haut a gauche
+             
 
 
