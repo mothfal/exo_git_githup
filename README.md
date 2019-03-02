@@ -13,5 +13,11 @@ Objectif :   Mise en pratique des notions acquises dans les deux premières part
              
 4eme etape : mise en forme de la denomination du site "Site auto - Vente et ..."
              - centrer et mettre en couleur gras
+             - changer la couleur au survol du curseur 
+
+5eme etape : mise en forme de la devise "Qui cherche trouve..."
+             - centrer et mettre en couleur gras
              - changer la couleur au survol du curseur
+             
+
 
