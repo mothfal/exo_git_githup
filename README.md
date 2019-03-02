@@ -30,5 +30,8 @@ Objectif :   Mise en pratique des notions acquises dans les deux premières part
 8eme etape : ajout de date en bas   puis
              - deplacer la date en haut a gauche
              
+9eme etape : transformer "SiteAuto" en lien
+
+10eme etape : dernieres retouches de "README.TXT" et de la page HTML
 
 
