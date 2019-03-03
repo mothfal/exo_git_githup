@@ -1,0 +1,115 @@
+/* Feuille de styles CSS  - principal*/ 
+ 
+@font-face 
+{
+    font-family: 'cac_champagneregular';
+    src: url('cac_champagne-webfont.eot');
+    src: url('cac_champagne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cac_champagne-webfont.woff2') format('woff2'),
+         url('cac_champagne-webfont.woff') format('woff'),
+         url('cac_champagne-webfont.ttf') format('truetype'),
+         url('cac_champagne-webfont.svg#cac_champagneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;       
+}
+     
+body 
+{ 
+ 
+  background: url("parking01.jpeg")  no-repeat top right 4%, url("neige03.jpg") ;
+
+} 
+
+.monnom
+{ 
+   text-align: center ;  
+   color: blue;   
+   font-size: xx-large;     
+   font-style: normal;    
+   font-weight: bold;  
+   width: 100%;  
+   height: 6%;
+}
+.monnom
+{
+   margin-top: 0%;
+      
+}   
+
+.madevise
+{
+   font-family: 'cac_champagneregular', Arial, serif;
+   text-align: center ;  
+   color: teal;
+   font-size: 1.5em;     
+   font-style: italic;    
+   font-weight: normal;  
+   border: 2px blue solid;
+   border-radius: 10px;
+   box-shadow: 6px 6px 0px black;  
+   width: 87%;
+   height: 50px;
+}
+
+.madevise
+{
+   margin-top: 2%;
+   margin-left: 3%;    
+}
+
+.monnom:hover ,.madevise:hover
+{
+  color: fuchsia;
+}
+
+.lesfrancaises:hover, .lesautres:hover       
+{
+    font-size: 1.2em;
+    font-weight: bold;    
+    text-decoration: none;
+    color: fuchsia;
+    font-style: italic;   
+}
+ /* Fin Parties communes aux sections */
+
+
+/* Début de la section les francaises */
+.lesfrancaises
+{
+    display: flex;
+    flex-direction: column;
+    color: teal;
+    border-radius: 10px;  
+    box-shadow: 6px 6px 0px black;  
+    font-size: 0.9em;          
+    text-align: justfy; 
+
+    width:  150%;
+    margin-top: 0%;  
+    margin-right: 0%; 
+    margin-left: 10%;       
+}
+
+
+/* Début de la section lesautres */
+.lesautres
+{
+   width: 150%;
+}
+
+.lesautres
+{
+    display: flex;
+    flex-direction: column;
+    color: teal;
+    border-radius: 10px;
+    box-shadow: 6px 6px 0px black;   
+    font-size: 0.9em;
+    margin-top: 0%;  
+    margin-right: 0%; 
+    margin-left: 17%;        
+}
+/* Fin de la section lesautres */
+
+
+
