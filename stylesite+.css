@@ -61,3 +61,32 @@ body
 {
   color: fuchsia;
 }
+
+.lesfrancaises:hover     
+{
+    font-size: 1.2em;
+    font-weight: bold;    
+    text-decoration: none;
+    color: fuchsia;
+    font-style: italic;   
+}
+ /* Fin Parties communes aux sections */
+
+
+/* Début de la section les francaises */
+.lesfrancaises
+{
+    display: flex;
+    flex-direction: column;
+    color: teal;
+    border-radius: 10px;  
+    box-shadow: 6px 6px 0px black;  
+    font-size: 0.9em;          
+    text-align: justfy; 
+
+    width:  150%;
+    margin-top: 0%;  
+    margin-right: 0%; 
+    margin-left: 10%;       
+}
+
