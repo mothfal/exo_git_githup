@@ -36,8 +36,28 @@ body
       
 }   
 
-.monnom:hover
+.madevise
+{
+   font-family: 'cac_champagneregular', Arial, serif;
+   text-align: center ;  
+   color: teal;
+   font-size: 1.5em;     
+   font-style: italic;    
+   font-weight: normal;  
+   border: 2px blue solid;
+   border-radius: 10px;
+   box-shadow: 6px 6px 0px black;  
+   width: 87%;
+   height: 50px;
+}
+
+.madevise
+{
+   margin-top: 2%;
+   margin-left: 3%;    
+}
+
+.monnom:hover ,.madevise:hover
 {
   color: fuchsia;
 }
-
